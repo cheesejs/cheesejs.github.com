@@ -1,1 +1,1 @@
-# cheesejs.github.com
+# cheesejs.github.io
